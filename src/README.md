@@ -2,7 +2,7 @@
 
 Welcome to the Vue.js testing handbook!
 
-This is a collection of short, focused examples on how to test Vue components. It uses `vue-test-utils`, the official library for testing Vue components, and Jest, a modern testing framework. It covers the `vue-test-utils` API, as well as best practises for testing components.
+This is a collection of short, focused examples on how to test Vue components. It uses `vue-test-utils`, the official library for testing Vue components, and Jest, a modern testing framework. It covers the `vue-test-utils` API, as well as best practices for testing components.
 
 Each section is independent from the others. It starts off covering the two ways to render a component in a test, `mount` and `shallowMount`, and illustrates the difference. We then move forward into setting up an environment with `vue-cli` and writing a simple test.
 
@@ -15,7 +15,7 @@ From then on, we cover how to test various scenarios that arise when testing com
 
 and so forth. We then move on to more interesting cases, such as:
 
-- best practises for testing Vuex (in components, and independently)
+- best practices for testing Vuex (in components, and independently)
 - testing Vue router
 - testing involving third party components
 
