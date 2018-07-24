@@ -6,7 +6,7 @@ Welcome to the Vue Testing Handbook!
 
 ## What is this?
 
-This is a collection of short, focused examples on how to test Vue components. It uses `vue-test-utils`, the official library for testing Vue components, and Jest, a modern testing framework. It covers the `vue-test-utils` API, as well as best practises and useful parts of the Jest API for testing Vue components, as well an a demo project with all the example code.
+This is a collection of short, focused examples on how to test Vue components. It uses `vue-test-utils`, the official library for testing Vue components, and Jest, a modern testing framework. It covers the `vue-test-utils` API, as well as best practices and useful parts of the Jest API for testing Vue components, as well an a demo project with all the example code.
 
 ## Style
 
